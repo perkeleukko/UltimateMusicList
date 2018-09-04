@@ -1,7 +1,7 @@
 ---
 title: Ultimate Music List
 subtitle: The most assorted List for Music lovers
-image: /img/home-jumbotron.jpg
+image: /img/picture2.png
 blurb:
   heading: Why ULM?
   text: >-
