@@ -3,12 +3,12 @@ title: Ultimate Music List
 subtitle: The most assorted List for Music lovers
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why ULM?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    ULM is a place where you can find the holy grail of music-suggestion for all
+    kind of music lovers. Our focus widens up from Beethoven to Black sabbath
+    and from commercial music to Heavy Metal. We also keep you updated about
+    Shows, Concerts, Musicals etc. 
 intro:
   heading: What we offer
   text: >-
