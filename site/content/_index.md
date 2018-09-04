@@ -12,10 +12,10 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We make lists based on different Genres, Occassions, speacial stories etc.
+    We try to promote good music which is rare these days. The list also
+    includes amateur, non-professional music players who produced magnificent
+    compositions.  
 products:
   - image: img/illustrations-coffee.svg
     text: >-
